@@ -1,3 +1,3 @@
-# flutter_application_1
+# My First Flutter App
 
-A new Flutter project.
+this is my first flutter app, hope soon i can build another app :)!
